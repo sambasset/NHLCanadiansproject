@@ -1,6 +1,6 @@
-#**NHLCanadiansproject**
+# **NHLCanadiansproject**
 
-###SQL Repository for Tableau Desktop Project entitled "Canadians in the NHL from 2017/18 to 2021/22"
+### SQL Repository for Tableau Desktop Project entitled "Canadians in the NHL from 2017/18 to 2021/22"
 
 **Primary Question:**
    How many players from each province played in the NHL from the years 2017/18 to 2021/22?
@@ -8,9 +8,12 @@
 o answer this question I used datasets from...
   
   NHL Game Data by Martin Ellis : [Link](https://www.kaggle.com/datasets/martinellis/nhl-game-data)
-        This dataset has player information dating years back so it wouldn’t be a clear representation of players who only played a minimum of 1 game in the seasons I want
-    NHL Player and Goalie Stats by Season from Moneypuck : [Link](https://moneypuck.com/data.htm)
-        This data is organized season by season so I can isolate the data for skaters and goalies for just the seasons I want.
+        
+This dataset has player information dating years back so it wouldn’t be a clear representation of players who only played a minimum of 1 game in the seasons I want
+   
+   NHL Player and Goalie Stats by Season from Moneypuck : [Link](https://moneypuck.com/data.htm)
+        
+This data is organized season by season so I can isolate the data for skaters and goalies for just the seasons I want.
 
 The Moneypuck dataset had every single player that played a minimum of 1 game in the NHL during the 2021-2022 season and the NHL Game Data set had player stat info as well as what nationality and what State/Province the player was from.
  
