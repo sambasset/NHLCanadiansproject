@@ -7,7 +7,7 @@
 **Primary Question:**
    How many players from each province played in the NHL from the years 2017/18 to 2021/22?
 
-o answer this question I used datasets from...
+to answer this question I used datasets from...
   
   NHL Game Data by Martin Ellis : [Link](https://www.kaggle.com/datasets/martinellis/nhl-game-data)
         
