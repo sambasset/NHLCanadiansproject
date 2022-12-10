@@ -1,6 +1,6 @@
 # **NHLCanadiansproject**
 
-#[LINK TO TABLEAU DASHBOARD](https://public.tableau.com/app/profile/samuel.basset/viz/CanadiansintheNHLfrom2017-2022/DASHBOARD)
+# [LINK TO TABLEAU DASHBOARD](https://public.tableau.com/app/profile/samuel.basset/viz/CanadiansintheNHLfrom2017-2022/DASHBOARD)
 
 ### SQL Repository for Tableau Desktop Project entitled "Canadians in the NHL from 2017/18 to 2021/22"
 
