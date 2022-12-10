@@ -4,6 +4,8 @@
 
 ### SQL Repository for Tableau Desktop Project entitled "Canadians in the NHL from 2017/18 to 2021/22"
 
+### BigQuery 
+
 **Primary Question:**
    How many players from each province played in the NHL from the years 2017/18 to 2021/22?
 
