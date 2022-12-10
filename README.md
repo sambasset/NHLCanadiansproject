@@ -189,6 +189,6 @@ SELECT s.name, s.position, s.team, s.situation, s.season, p.nationality, p.birth
         WHERE nationality = "CAN"
 ```        
 
-###**Exported to CSV as FINAL_NHL_2017_2021_all**
+### **Exported to CSV as FINAL_NHL_2017_2021_all**
 
 
